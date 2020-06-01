@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+header a {
+  background-color: grey;
+}
+
 img {
   display: block;
   margin-left: auto;
