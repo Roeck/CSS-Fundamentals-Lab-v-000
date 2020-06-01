@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+img {
+  position: center;
+}
+
 
 div {
   background-color: red;
