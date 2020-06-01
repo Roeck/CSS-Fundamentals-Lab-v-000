@@ -4,13 +4,10 @@ body {
   margin: 0;
 }
 
-header {
+header, img{
   align-items: : center;
 }
 
-img {
-  align-items: center;
-}
 
 div {
   background-color: red;
