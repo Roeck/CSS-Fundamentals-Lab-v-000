@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+header {
+  align: center;
+}
+
 div {
   background-color: red;
   border-bottom-width: : 25%;
