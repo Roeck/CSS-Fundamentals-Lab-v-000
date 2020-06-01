@@ -4,6 +4,11 @@ body {
   margin: 0;
 }
 
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 header, img{
   align-items: : center;
 }
