@@ -34,5 +34,7 @@ section#details div {
   display: block;
   float: left;
   width: 25%;
+  margin-left: auto;
+  margin-right: auto;
 
 }
