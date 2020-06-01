@@ -18,6 +18,10 @@ img {
   margin-right: auto;
 }
 
+figcaption {
+  text-align: center;
+}
+
 
 div {
   background-color: red;
