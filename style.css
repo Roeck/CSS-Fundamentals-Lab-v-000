@@ -8,6 +8,10 @@ header {
   align-items: : center;
 }
 
+img {
+  align-items: center;
+}
+
 div {
   background-color: red;
   border-bottom-width: : 25%;
